@@ -1,0 +1,6 @@
+{
+  "name": "AERO-X // 2026 Rocket Roadster Sandbox",
+  "description": "High-speed 3D highway racing and cold-gas thruster physics sandbox featuring a 10-thruster cyber-aero hypercar, 2G underbody vacuum suction for inverted tunnel ceiling driving, and live drag telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
